@@ -2,8 +2,12 @@
 
 using namespace std;
 
+void print(){
+    cout<<"Hello World\n";
+}
+
 int main()
 {
-    cout<<"Hello World\n";
+    print();
     return 0;
 }
